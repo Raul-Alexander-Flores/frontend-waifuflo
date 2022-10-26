@@ -138,7 +138,7 @@ const Navbar = () => {
 
           >
             <Image
-              src={images.logo02}
+              src={images.logo}
               
               width={32}
               height={32}
